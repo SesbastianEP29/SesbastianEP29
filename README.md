@@ -3,8 +3,9 @@
 
 ## 👋 About Me
 
-I’m a freelance **audio developer** and **sound engineer** based in Colombia, specializing in:
+I’m a freelance **audio developer**, **sound engineer** and **data scientist** based in Colombia, specializing in:
 
+- DSP Research
 - Audio DSP development (C++, Python)
 - Prototyping effect plugins (VST, AU)
 - Acoustic software tools
@@ -24,8 +25,8 @@ Unsupervised learning applied to customer support chat analysis using Python and
 
 ## 💼 Skills
 
-- **Languages:** C++, Python, SQL  
-- **Frameworks:** JUCE, PyDub, Librosa, Scikit-learn  
+- **Languages:** C++, Python, Matlab  
+- **Frameworks:** JUCE, PyDub, Librosa, Scikit-learn, PyTorch  
 - **Tools:** Power BI, Databricks, Git
 
 ---
@@ -37,4 +38,3 @@ Unsupervised learning applied to customer support chat analysis using Python and
 
 ---
 
-_“Code what you hear, hear what you code.”_
