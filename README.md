@@ -32,7 +32,7 @@ I design and develop tools for acoustic analysis and sound calibration, includin
 * Sound level meters
 * Calibration utilities
 
-<img src="Assets/Sound_Meter_Update (1).png" width="300"/>
+<img src="Assets/Sound_Meter_UPdate.png" width="500"/>
 
 ---
 
