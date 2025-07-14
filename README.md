@@ -1,4 +1,4 @@
-# 🎧 Sebastián Pajoy — Audio Developer & DSP Engineer
+# 🎧 Sebastián Escobar Pajoy — Audio Developer & DSP Engineer
 
 I am a freelance **audio developer** and **sound engineer** with a focus on:
 
@@ -48,8 +48,14 @@ I work on research projects related to:
 * Audio signal classification
 * Feature extraction (spectral descriptors, temporal features)
 * AI applied to sound
+## Caracterisation of lung sounds depending on the chest location
+<img src="EspectroBP.png" width="300"/>
 
-![Espectro BP](Assets/Espectro_BP.png)
+## Clustarisation of lung sounds
+<img src="MicDisc.jpg" width="300"/>
+
+##
+
 
 ---
 
