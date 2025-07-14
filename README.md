@@ -87,7 +87,7 @@ International Conference on Mathematical Analysis and Applications in Science an
 
 ## 🛈 Contact
 
-* **LinkedIn:** [linkedin.com/in/sebastián-escobar-pajoy](www.linkedin.com/in/sebastián-escobar-pajoy)
+* **LinkedIn:** [linkedin.com/in/sebastián-escobar-pajoy](https://www.linkedin.com/in/sebastián-escobar-pajoy)
 * **GitHub:** [SesbastianEP29](https://github.com/SesbastianEP29)
 
 ---
