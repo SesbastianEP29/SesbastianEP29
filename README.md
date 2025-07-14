@@ -18,10 +18,10 @@ I build custom audio plugins and synthetizers for real-time sound manipulation u
 <img src="Assets/Draws.png" width="600"/>
 
 ## Anger Flanger: LoFi Chorus and Flanger      
-<img src="Assets/Anger_Flanger_Prototype.png" width="300"/> 
+<img src="Assets/Anger_Flanger_Prototype.png" width="450"/> 
 
 ## MBRAKATOR: Virtual Bass
-<img src="Assets/MBRAKATOR.jpg" width="300"/>
+<img src="Assets/MBRAKATOR.jpg" width="450"/>
 
 ---
 
@@ -29,10 +29,15 @@ I build custom audio plugins and synthetizers for real-time sound manipulation u
 
 I design and develop tools for acoustic analysis and sound calibration, including:
 
-* Sound level meters
-* Calibration utilities
+## Sound level meters
+<img src="Assets/Sound_Meter_UPdate.png" width="600"/>
 
-<img src="Assets/Sound_Meter_UPdate.png" width="500"/>
+## Calibration Utilities
+<img src="Assets/Calibrator.png" width="300"/>
+
+## Reverb Time Measurement with automated source EQ
+<img src="Assets/RevCO.png" width="300"/>
+
 
 ---
 
@@ -46,21 +51,36 @@ I work on research projects related to:
 
 ![Espectro BP](Assets/Espectro_BP.png)
 
+---
 
+### 📄 Selected Publications
+
+**Computerized analysis of pulmonary sounds using uniform manifold projection**  
+Chaos, Solitons & Fractals, Volume 166 · Dec 2022  
+- Visualization of pulmonary sounds using UMAP.  
+- Discrimination of recording devices through spectral descriptors.  
+- Spectral statistics correlate with chronic pulmonary disease status.  
+- Fractional state space representation related to adventitious sounds.
+
+**Auscultation chest locations are correlated with short term spectral features of pulmonary sounds**  
+International Conference on Mathematical Analysis and Applications in Science and Engineering · Jun 2022  
+- Analysis of respiratory sounds in chronic pulmonary disease patients.  
+- Combination of dimensionality reduction and Procrustes analysis.  
+- Graphical representation of pulmonary sound characteristics.
 ---
 
 ## 🔧 Skills & Tools
 
-* **Languages:** C++, Python, SQL
-* **Frameworks:** JUCE, PyDub, Librosa, Scikit-learn
-* **Data Platforms:** Power BI, Databricks
+* **Languages:** C++, Python, Matlab, Pyspark
+* **Frameworks:** JUCE,Pythorch, PyDub, Librosa, Scikit-learn
+* **Data Platforms:** Power BI, Databricks, AWS
 * **Version Control:** Git, GitHub
 
 ---
 
 ## 🛈 Contact
 
-* **LinkedIn:** [linkedin.com/in/sesbastianep](https://www.linkedin.com/in/sesbastianep)
+* **LinkedIn:** [linkedin.com/in/sesbastianep](www.linkedin.com/in/sebastián-escobar-pajoy)
 * **GitHub:** [SesbastianEP29](https://github.com/SesbastianEP29)
 
 ---
