@@ -87,9 +87,8 @@ International Conference on Mathematical Analysis and Applications in Science an
 
 ## 🛈 Contact
 
-* **LinkedIn:** [linkedin.com/in/sesbastianep](www.linkedin.com/in/sebastián-escobar-pajoy)
+* **LinkedIn:** [linkedin.com/in/sebastián-escobar-pajoy](www.linkedin.com/in/sebastián-escobar-pajoy)
 * **GitHub:** [SesbastianEP29](https://github.com/SesbastianEP29)
 
 ---
 
-*"Code what you hear, hear what you code."*
